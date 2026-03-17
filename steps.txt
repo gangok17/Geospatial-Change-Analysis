@@ -1,0 +1,17 @@
+open vs code terminal 
+
+run following commands one by one in terminal
+
+
+1 .  pip install -r requirements.txt
+
+venv310\Scripts\activate
+
+python -m pip install -r requirements.txt
+
+
+2 .  python app.py
+
+explanation 
+
+best_segformer.pth is our model that predict we train model on google colab and make its file . and then download it from google colab
